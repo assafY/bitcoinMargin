@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 4681 (0x1249)
+        Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=US, ST=NY, L=New York, O=Bloomberg LP, OU=CTO Office, CN=Bloomberg LP CA/emailAddress=open-tech@bloomberg.net
+        Validity
+            Not Before: Feb 27 06:00:00 2015 GMT
+            Not After : Mar  3 06:00:00 2015 GMT
+        Subject: C=US, ST=NY, L=New York, O=Bloomberg LP, OU=CTO Office, CN=hacklondon_spring_2015_024/emailAddress=open-tech@bloomberg.net
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+            RSA Public Key: (1024 bit)
+                Modulus (1024 bit):
+                    00:b6:05:76:0a:b5:4c:93:68:75:8e:f7:09:87:ff:
+                    c9:2d:ad:ee:b9:b6:98:aa:be:61:4f:70:63:4f:87:
+                    5b:51:3e:d2:d7:6c:49:20:6e:94:81:85:09:06:3f:
+                    c9:dc:41:1e:72:4a:55:6b:89:9c:6e:52:3a:cb:97:
+                    b4:23:9e:9d:6a:7b:ff:cb:96:65:d6:72:20:9b:d9:
+                    8c:46:c8:06:c1:98:43:c6:1b:84:9d:74:0d:8b:e3:
+                    9b:67:32:0f:18:f8:2b:85:a2:7f:c5:a0:eb:95:d1:
+                    aa:6b:f4:a7:47:3a:25:5e:e8:30:67:77:71:b7:ea:
+                    0a:7e:90:ab:0f:f6:79:61:0b
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                15:CB:05:43:19:41:F0:E6:05:E7:BD:3E:BE:AF:2D:00:7C:FB:2E:07
+            X509v3 Authority Key Identifier: 
+                keyid:F3:21:76:1F:DA:B5:E7:03:FC:ED:D7:71:B8:1C:55:2D:7E:65:5F:14
+                DirName:/C=US/ST=NY/L=New York/O=Bloomberg LP/OU=CTO Office/CN=Bloomberg LP CA/emailAddress=open-tech@bloomberg.net
+                serial:81:F3:7A:1C:BC:C6:E8:A2
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+        bb:c2:9f:45:fc:11:19:49:50:73:2d:a2:28:08:9a:0d:39:13:
+        10:13:a2:c5:bd:09:7f:f1:80:49:73:82:da:d3:80:2f:3b:c4:
+        fb:c2:ba:40:60:30:27:cd:54:3e:36:2b:35:20:90:0a:ab:8c:
+        d5:43:c2:33:df:08:c4:0f:ab:9b:cd:e1:19:fd:eb:1f:0f:c1:
+        93:bc:e8:87:ad:25:34:b6:b4:3c:65:b9:64:a9:50:b7:32:62:
+        c0:30:0c:3b:68:01:b3:1b:95:3e:23:4f:20:95:e3:bf:fe:fe:
+        3c:84:05:d8:c6:4a:79:87:fa:0a:b6:d8:30:35:b3:75:d8:68:
+        bd:5e
+-----BEGIN CERTIFICATE-----
+MIIEDjCCA3egAwIBAgICEkkwDQYJKoZIhvcNAQEFBQAwgZsxCzAJBgNVBAYTAlVT
+MQswCQYDVQQIEwJOWTERMA8GA1UEBxMITmV3IFlvcmsxFTATBgNVBAoTDEJsb29t
+YmVyZyBMUDETMBEGA1UECxMKQ1RPIE9mZmljZTEYMBYGA1UEAxMPQmxvb21iZXJn
+IExQIENBMSYwJAYJKoZIhvcNAQkBFhdvcGVuLXRlY2hAYmxvb21iZXJnLm5ldDAe
+Fw0xNTAyMjcwNjAwMDBaFw0xNTAzMDMwNjAwMDBaMIGmMQswCQYDVQQGEwJVUzEL
+MAkGA1UECBMCTlkxETAPBgNVBAcTCE5ldyBZb3JrMRUwEwYDVQQKEwxCbG9vbWJl
+cmcgTFAxEzARBgNVBAsTCkNUTyBPZmZpY2UxIzAhBgNVBAMUGmhhY2tsb25kb25f
+c3ByaW5nXzIwMTVfMDI0MSYwJAYJKoZIhvcNAQkBFhdvcGVuLXRlY2hAYmxvb21i
+ZXJnLm5ldDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAtgV2CrVMk2h1jvcJ
+h//JLa3uubaYqr5hT3BjT4dbUT7S12xJIG6UgYUJBj/J3EEeckpVa4mcblI6y5e0
+I56danv/y5Zl1nIgm9mMRsgGwZhDxhuEnXQNi+ObZzIPGPgrhaJ/xaDrldGqa/Sn
+RzolXugwZ3dxt+oKfpCrD/Z5YQsCAwEAAaOCAVIwggFOMAkGA1UdEwQCMAAwLQYJ
+YIZIAYb4QgENBCAWHkVhc3ktUlNBIEdlbmVyYXRlZCBDZXJ0aWZpY2F0ZTAdBgNV
+HQ4EFgQUFcsFQxlB8OYF570+vq8tAHz7LgcwgdAGA1UdIwSByDCBxYAU8yF2H9q1
+5wP87ddxuBxVLX5lXxShgaGkgZ4wgZsxCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJO
+WTERMA8GA1UEBxMITmV3IFlvcmsxFTATBgNVBAoTDEJsb29tYmVyZyBMUDETMBEG
+A1UECxMKQ1RPIE9mZmljZTEYMBYGA1UEAxMPQmxvb21iZXJnIExQIENBMSYwJAYJ
+KoZIhvcNAQkBFhdvcGVuLXRlY2hAYmxvb21iZXJnLm5ldIIJAIHzehy8xuiiMBMG
+A1UdJQQMMAoGCCsGAQUFBwMCMAsGA1UdDwQEAwIHgDANBgkqhkiG9w0BAQUFAAOB
+gQC7wp9F/BEZSVBzLaIoCJoNORMQE6LFvQl/8YBJc4La04AvO8T7wrpAYDAnzVQ+
+Nis1IJAKq4zVQ8Iz3wjED6ubzeEZ/esfD8GTvOiHrSU0trQ8ZblkqVC3MmLAMAw7
+aAGzG5U+I08gleO//v48hAXYxkp5h/oKttgwNbN12Gi9Xg==
+-----END CERTIFICATE-----
