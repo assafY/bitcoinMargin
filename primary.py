@@ -1,7 +1,10 @@
-def main():
+def chartFromNothing():
 	import dataGather
 	bitcoinName = "XBTC"
-	data = dataGather.get(bitcoinNam)
+	currency = "GBP"
+	amount = "40"
+	time="24"#time in hours
+	data = dataGather.get(bitcoinName,currency,amount,time)
 	import prediction
 	expectation = prediction.flux(data)
 	import chartMaker
@@ -9,4 +12,4 @@ def main():
 	#Do something to print the chart
 	#FANCY IOS MAGIC GOES HERE
 if __name__ = "__main__":
-	main()
+	chartFromNothing()
